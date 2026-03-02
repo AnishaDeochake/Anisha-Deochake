@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Anisha 👋</h1>
 
 <p align="center">
-  AI/ML Engineer • LLM Systems • RAG • Agentic Workflows
+  AI/ML Engineer working on LLM systems, RAG pipelines, and agent-based applications
 </p>
 
 <p align="center">
@@ -13,32 +13,29 @@
 
 ## 🌸 About Me
 
-I build practical AI systems that work beyond notebooks —  
-LLM-powered applications, Retrieval-Augmented Generation (RAG) pipelines, and structured AI services designed for reliability.
+I work on real-world AI systems that go beyond experiments and notebooks.  
+Most of my recent work has focused on building LLM-powered applications, Retrieval-Augmented Generation (RAG) pipelines, and structured AI services that are reliable in production.
 
-I’m especially interested in making AI systems:
-- grounded
-- measurable
-- well-monitored
-- and thoughtfully engineered  
+I’m particularly interested in the engineering side of AI - improving retrieval quality, reducing hallucinations, designing structured outputs, and making systems observable and measurable.
 
-I care about the details — latency, evaluation sets, structured outputs — the quiet parts that make AI feel dependable.
+I like working on the parts that people don’t always see:
+evaluation datasets, latency tuning, index design, monitoring, and API integration.
 
 ---
 
-## ✨ What I’m Working On
+## ✨ What I’m Currently Exploring
 
-- Improving retrieval quality through better chunking and embedding strategies  
-- Designing agentic workflows with safe tool-calling patterns  
-- Building API-first AI services that integrate cleanly into products  
-- Adding evaluation + monitoring layers to LLM systems  
+- Improving retrieval with better chunking and embedding strategies  
+- Designing agent workflows with safe tool-calling patterns  
+- Building API-first AI services  
+- Adding evaluation and monitoring layers to LLM systems  
 
 ---
 
 ## 🧠 Technical Focus
 
 **GenAI & NLP**  
-RAG · embeddings · semantic search · vector indexing · prompt design · structured outputs  
+RAG · embeddings · semantic search · vector indexing · prompt engineering · structured outputs  
 
 **Machine Learning**  
 Feature engineering · model evaluation · validation practices · reliability  
@@ -53,22 +50,23 @@ Azure AI services · cloud-based inference APIs
 
 ## 👩‍🏫 Teaching & Mentorship
 
-I supported undergraduate engineering courses as a Teaching Assistant, including:
+I’ve worked as a Teaching Assistant for undergraduate engineering courses including:
 
 - Parallel Programming  
 - Computer Architecture  
 - Networking  
 - Software Design  
 
-I enjoy helping students debug complex systems and understand how things work under the hood.
+I enjoy breaking down complex systems and helping students understand how things connect at a deeper level.
 
 ---
 
 ## 💌 Let’s Connect
 
-Always open to collaborating on:
-- Production AI systems  
-- RAG evaluation frameworks  
+I’m always open to conversations around:
+
+- Production-grade AI systems  
+- RAG evaluation and optimization  
 - AI product integration  
 
 LinkedIn: https://www.linkedin.com/in/anisha-deochake  
